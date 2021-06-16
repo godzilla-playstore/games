@@ -15,9 +15,9 @@ font-weight: bold;}
 background: linear-gradient(to top, #3F5EFB, #FC466B);
  cursor:url(../image/h.png),pointer;}
 
-#dh {margin:30px;}
+#middle_app {margin:50px 0px 50px 0px;}
 
-#db {margin:50px;}
+#side_app {margin:50px;}
 
  h2 {background-color: yellow;}
 
